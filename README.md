@@ -15,6 +15,11 @@ The project is being developed as part of a Master's thesis with a focus on indu
 
 ---
 
+# The dataset for this project can be sourced from:
+
+J:\Datenaustausch\Verkauf\Barm\Eagle Somic Connect Daten Line 1 Maschine Bolton Mars Canada July 26
+
+
 ## 1. Project Objective
 
 The objective of EAGLE-MARS is to develop a video-based machine fault detection pipeline capable of analyzing industrial machine operation and identifying abnormal behavior.
